@@ -1,0 +1,102 @@
+main{
+    background-color: rgba(0, 0, 0, 0.61);
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    margin-left: 300px;
+    height: 800px;
+    width: 700px;
+    margin-top: 30px;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+.box1 img{
+    margin-left: 285px;
+    margin-top: 5px;
+}
+.box{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+main a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button a{
+    /* background-color: black; */
+    color: black;
+    text-decoration-line: none;
+    /* margin-top: -20px; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+}
+button img{
+    height: 20px;
+    width: 20px;
+    margin-left: -20px;
+}
+button{
+    border-radius: 20px;
+    margin-left: 220px;
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    border-color: rgba(255, 255, 255, 0.534);
+}
+footer .email{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-left: 230px;
+}
+footer input{
+    margin-left: 230px;
+    margin-top: 8px;
+    height: 30px;
+    width: 230px;
+}
+.remem{
+    color: white;
+    margin-top: 10px;
+    margin-left: 230px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+.forget{
+    color: white;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+.acc{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 230px;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.541);
+    height: 80px;
+    /* margin-top: 25px; */
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+
+}
+.footer .captcha{
+    margin-top: 30px;
+}
